@@ -1,4 +1,4 @@
-package id.gifood.projectpam;
+package id.gifood.projectpam.activity;
 
 import android.content.DialogInterface;
 import android.support.annotation.NonNull;
@@ -10,6 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import id.gifood.projectpam.R;
 import id.gifood.projectpam.fragment.FragmentHistory;
 import id.gifood.projectpam.fragment.FragmentHome;
 import id.gifood.projectpam.fragment.FragmentProfil;
